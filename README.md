@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hazzahazza99
+- 👀 I’m interested in Software Development / Engineering
+- 🌱 I’m currently learning Computer Science (BSc) at Portsmouth Uni
