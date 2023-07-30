@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Harry (HaZ)
 - 👀 I’m interested in Software Development / Engineering
-- 🌱 I’m currently learning Computer Science (BSc) at Portsmouth Uni
-- 🖥️ Currently have experience with mainly Python and Java but have worked with other languages and open to learning more!
+- 🌱 I’m currently finished a Bachelors degree in Computer Science (BSc) at Portsmouth Uni
+- 🖥️ Currently have experience with mainly Python and Java but have worked with other languages and am open to learning more!
